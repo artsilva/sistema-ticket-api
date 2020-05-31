@@ -1,6 +1,6 @@
-# example_node_typescript_postrgresql
+# sistema-ticket-api
 
-Archetype for NODE Typescript and PosgreSQL with an user CRUD example API
+Node API using Typescript and Postgresql for Sistema Ticket. 
 
 ## Installation
 
